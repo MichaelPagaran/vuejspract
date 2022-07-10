@@ -1,3 +1,6 @@
+**Personal note:** this repository is used while I'm learning vuejs. Branches are made for *different practice projects*.
+Please do not merge branches to main unless explicitly told to do so
+
 # practice-proj
 
 This template should help get you started developing with Vue 3 in Vite.
